@@ -12,7 +12,6 @@
 
         <!-- actionbar -->
         <string name="action_bar_share_title">Link versenden</string>
-        <string name="action_bar_share">Willst du geocachen?</string>
 
 	<!-- caches -->
 	<string name="all">Alle Caches</string>
